@@ -225,12 +225,11 @@ section.image .circle {
             padding:5px;
         }
 
+        main form input[type="submit"] {
+            height: 40px;
+        }
 
     }
   
   
-    @media(max-width:360px) {
-        main form {
-            
-        }
-    }
+    
